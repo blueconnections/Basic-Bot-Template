@@ -1,0 +1,18 @@
+{
+    "name": "Bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "325c0908-6265-4393-bd48-503f06f2f54d",
+            "appPassword": "aPhn5{Y#W19}W2w3HYlM$2YqwF;B)3G:",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "de1a9160-63f2-11ea-b67c-9d7db6ffe5be",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\ntong.BLUECONNECTIONS\\OneDrive - Blue Connections Pty Ltd\\Desktop\\DB-Bot\\Bot.bot"
+}
